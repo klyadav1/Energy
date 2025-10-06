@@ -1,0 +1,694 @@
+Industrial Oven Heating Analysis
+==================================================
+
+Date: 02-Jun-2025 Weather : Temperature : 22 C Humidity : 86 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-06-02 03:03:25
+Starting Temperature: 32.50°C
+Target Reached Time: 2025-06-02 03:33:25
+Time to Target: 30.0 minutes
+Heating Rate: 4.25°C/min
+Final Temperature: 154.88°C
+Data Points: 416
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-06-02 03:03:25
+Starting Temperature: 32.56°C
+Target Reached Time: 2025-06-02 03:50:55
+Time to Target: 47.5 minutes
+Heating Rate: 3.31°C/min
+Final Temperature: 181.47°C
+Data Points: 416
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-06-02 03:03:25
+Starting Temperature: 37.04°C
+Target Reached Time: 2025-06-02 05:32:25
+Time to Target: 149.0 minutes
+Heating Rate: 1.03°C/min
+Final Temperature: 195.27°C
+Data Points: 416
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-06-02 03:03:25
+Starting Temperature: 36.98°C
+Target Reached Time: 2025-06-02 05:29:25
+Time to Target: 146.0 minutes
+Heating Rate: 1.05°C/min
+Final Temperature: 200.64°C
+Data Points: 416
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-06-02 03:03:25
+Starting Temperature: 35.14°C
+Target Reached Time: 2025-06-02 04:07:23
+Time to Target: 64.0 minutes
+Heating Rate: 2.42°C/min
+Final Temperature: 194.62°C
+Data Points: 416
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-06-02 03:03:25
+Starting Temperature: 33.37°C
+Target Reached Time: 2025-06-02 04:29:55
+Time to Target: 86.5 minutes
+Heating Rate: 1.81°C/min
+Final Temperature: 192.06°C
+Data Points: 416
+
+
+Date: 05-May-2025 22 C , 66 % 
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-05-05 03:55:55
+Starting Temperature: 33.26°C
+Target Reached Time: 2025-05-05 04:25:25
+Time to Target: 29.5 minutes
+Heating Rate: 4.30°C/min
+Final Temperature: 160.27°C
+Data Points: 341
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-05-05 03:55:55
+Starting Temperature: 32.63°C
+Target Reached Time: 2025-05-05 04:42:55
+Time to Target: 47.0 minutes
+Heating Rate: 3.35°C/min
+Final Temperature: 202.43°C
+Data Points: 341
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-05-05 03:55:55
+Starting Temperature: 36.10°C
+Target Reached Time: 2025-05-05 05:19:55
+Time to Target: 84.0 minutes
+Heating Rate: 1.83°C/min
+Final Temperature: 193.70°C
+Data Points: 341
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-05-05 03:55:55
+Starting Temperature: 38.29°C
+Target Reached Time: 2025-05-05 06:41:25
+Time to Target: 165.5 minutes
+Heating Rate: 0.92°C/min
+Final Temperature: 193.50°C
+Data Points: 341
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-05-05 03:55:55
+Starting Temperature: 35.67°C
+Target Reached Time: 2025-05-05 05:01:55
+Time to Target: 66.0 minutes
+Heating Rate: 2.34°C/min
+Final Temperature: 195.11°C
+Data Points: 341
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-05-05 03:55:55
+Starting Temperature: 34.94°C
+Target Reached Time: 2025-05-05 05:29:55
+Time to Target: 94.0 minutes
+Heating Rate: 1.65°C/min
+Final Temperature: 194.16°C
+Data Points: 341
+
+
+Date: 07-Apr-2025 Temperature : 25.3 C Humidity : 22% @3 AM
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-04-07 03:02:58
+Starting Temperature: 35.90°C
+Target Reached Time: 2025-04-07 03:35:28
+Time to Target: 32.5 minutes
+Heating Rate: 3.82°C/min
+Final Temperature: 157.54°C
+Data Points: 347
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-04-07 03:02:58
+Starting Temperature: 37.63°C
+Target Reached Time: 2025-04-07 03:50:27
+Time to Target: 47.5 minutes
+Heating Rate: 3.21°C/min
+Final Temperature: 199.57°C
+Data Points: 347
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-04-07 03:02:58
+Starting Temperature: 43.94°C
+Target Reached Time: 2025-04-07 04:54:58
+Time to Target: 112.0 minutes
+Heating Rate: 1.30°C/min
+Final Temperature: 196.74°C
+Data Points: 347
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-04-07 03:02:58
+Starting Temperature: 46.17°C
+Target Reached Time: 2025-04-07 05:42:28
+Time to Target: 159.5 minutes
+Heating Rate: 0.90°C/min
+Final Temperature: 186.11°C
+Data Points: 347
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-04-07 03:02:58
+Starting Temperature: 45.06°C
+Target Reached Time: 2025-04-07 03:58:58
+Time to Target: 56.0 minutes
+Heating Rate: 2.59°C/min
+Final Temperature: 199.88°C
+Data Points: 347
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-04-07 03:02:58
+Starting Temperature: 40.97°C
+Target Reached Time: 2025-04-07 04:29:58
+Time to Target: 87.0 minutes
+Heating Rate: 1.71°C/min
+Final Temperature: 198.24°C
+Data Points: 347
+
+
+Date: 09-Jun-2025 Weather : Temperature : 23 C Humidity : 87 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-06-09 03:07:54
+Starting Temperature: 31.37°C
+Target Reached Time: 2025-06-09 03:38:55
+Time to Target: 31.0 minutes
+Heating Rate: 2.92°C/min
+Final Temperature: 138.65°C
+Data Points: 407
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-06-09 03:07:54
+Starting Temperature: 31.63°C
+Target Reached Time: 2025-06-09 03:54:54
+Time to Target: 47.0 minutes
+Heating Rate: 3.37°C/min
+Final Temperature: 184.73°C
+Data Points: 407
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-06-09 03:07:54
+Starting Temperature: 34.59°C
+Target Reached Time: 2025-06-09 04:32:25
+Time to Target: 84.5 minutes
+Heating Rate: 1.84°C/min
+Final Temperature: 195.85°C
+Data Points: 407
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-06-09 03:07:54
+Starting Temperature: 34.60°C
+Target Reached Time: 2025-06-09 05:18:56
+Time to Target: 131.0 minutes
+Heating Rate: 1.19°C/min
+Final Temperature: 201.22°C
+Data Points: 407
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-06-09 03:07:54
+Starting Temperature: 32.84°C
+Target Reached Time: 2025-06-09 04:09:56
+Time to Target: 62.0 minutes
+Heating Rate: 2.53°C/min
+Final Temperature: 195.18°C
+Data Points: 407
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-06-09 03:07:54
+Starting Temperature: 31.80°C
+Target Reached Time: 2025-06-09 04:43:54
+Time to Target: 96.0 minutes
+Heating Rate: 1.65°C/min
+Final Temperature: 194.25°C
+Data Points: 407
+
+
+Date: 11-May-2025 24 C , 74 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-05-11 23:51:00
+Starting Temperature: 35.40°C
+Target Reached Time: 2025-05-12 00:26:01
+Time to Target: 35.0 minutes
+Heating Rate: 3.56°C/min
+Final Temperature: 52.39°C
+Data Points: 2899
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-05-11 23:51:00
+Starting Temperature: 37.95°C
+Target Reached Time: 2025-05-12 00:42:31
+Time to Target: 51.5 minutes
+Heating Rate: 2.95°C/min
+Final Temperature: 52.41°C
+Data Points: 2899
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-05-11 23:51:00
+Starting Temperature: 44.15°C
+Target Reached Time: 2025-05-12 01:16:00
+Time to Target: 85.0 minutes
+Heating Rate: 1.72°C/min
+Final Temperature: 45.75°C
+Data Points: 2899
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-05-11 23:51:00
+Starting Temperature: 42.18°C
+Target Reached Time: 2025-05-12 02:12:01
+Time to Target: 141.0 minutes
+Heating Rate: 1.05°C/min
+Final Temperature: 44.89°C
+Data Points: 2899
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-05-11 23:51:00
+Starting Temperature: 40.70°C
+Target Reached Time: 2025-05-12 00:56:01
+Time to Target: 65.0 minutes
+Heating Rate: 2.30°C/min
+Final Temperature: 43.55°C
+Data Points: 2899
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-05-11 23:51:00
+Starting Temperature: 37.86°C
+Target Reached Time: 2025-05-12 01:23:31
+Time to Target: 92.5 minutes
+Heating Rate: 1.64°C/min
+Final Temperature: 39.20°C
+Data Points: 2899
+
+
+Date: 14-Apr-2025 24 C , 41 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-04-14 02:46:28
+Starting Temperature: 31.97°C
+Target Reached Time: 2025-04-14 03:20:58
+Time to Target: 34.5 minutes
+Heating Rate: 3.71°C/min
+Final Temperature: 160.66°C
+Data Points: 380
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-04-14 02:46:28
+Starting Temperature: 33.46°C
+Target Reached Time: 2025-04-14 03:37:58
+Time to Target: 51.5 minutes
+Heating Rate: 3.04°C/min
+Final Temperature: 200.18°C
+Data Points: 380
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-04-14 02:46:28
+Starting Temperature: 38.12°C
+Target Reached Time: 2025-04-14 04:04:57
+Time to Target: 78.5 minutes
+Heating Rate: 1.94°C/min
+Final Temperature: 192.83°C
+Data Points: 380
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-04-14 02:46:28
+Starting Temperature: 39.79°C
+Target Reached Time: 2025-04-14 05:46:57
+Time to Target: 180.5 minutes
+Heating Rate: 0.83°C/min
+Final Temperature: 189.77°C
+Data Points: 380
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-04-14 02:46:28
+Starting Temperature: 39.18°C
+Target Reached Time: 2025-04-14 03:47:59
+Time to Target: 61.5 minutes
+Heating Rate: 2.45°C/min
+Final Temperature: 189.53°C
+Data Points: 380
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-04-14 02:46:28
+Starting Temperature: 36.20°C
+Target Reached Time: 2025-04-14 04:14:28
+Time to Target: 88.0 minutes
+Heating Rate: 1.75°C/min
+Final Temperature: 185.65°C
+Data Points: 380
+
+
+Date: 16-Jun-2025 24 C , 85 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-06-16 03:31:24
+Starting Temperature: 33.45°C
+Target Reached Time: 2025-06-16 03:58:54
+Time to Target: 27.5 minutes
+Heating Rate: 4.60°C/min
+Final Temperature: 155.71°C
+Data Points: 360
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-06-16 03:31:24
+Starting Temperature: 34.10°C
+Target Reached Time: 2025-06-16 04:13:25
+Time to Target: 42.0 minutes
+Heating Rate: 3.71°C/min
+Final Temperature: 186.33°C
+Data Points: 360
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-06-16 03:31:24
+Starting Temperature: 37.48°C
+Target Reached Time: 2025-06-16 04:53:25
+Time to Target: 82.0 minutes
+Heating Rate: 1.86°C/min
+Final Temperature: 193.93°C
+Data Points: 360
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-06-16 03:31:24
+Starting Temperature: 34.92°C
+Target Reached Time: 2025-06-16 06:25:55
+Time to Target: 174.5 minutes
+Heating Rate: 0.89°C/min
+Final Temperature: 197.81°C
+Data Points: 360
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-06-16 03:31:24
+Starting Temperature: 33.72°C
+Target Reached Time: 2025-06-16 06:14:55
+Time to Target: 163.5 minutes
+Heating Rate: 0.96°C/min
+Final Temperature: 192.92°C
+Data Points: 360
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-06-16 03:31:24
+Starting Temperature: 32.92°C
+Target Reached Time: 2025-06-16 04:57:55
+Time to Target: 86.5 minutes
+Heating Rate: 1.82°C/min
+Final Temperature: 191.89°C
+Data Points: 360
+
+
+Date: 19-May-2025 24 C , 78 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-05-19 03:00:55
+Starting Temperature: 33.50°C
+Target Reached Time: 2025-05-19 03:31:25
+Time to Target: 30.5 minutes
+Heating Rate: 4.15°C/min
+Final Temperature: 149.38°C
+Data Points: 421
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-05-19 03:00:55
+Starting Temperature: 35.34°C
+Target Reached Time: 2025-05-19 03:47:53
+Time to Target: 47.0 minutes
+Heating Rate: 3.29°C/min
+Final Temperature: 182.74°C
+Data Points: 421
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-05-19 03:00:55
+Starting Temperature: 40.00°C
+Target Reached Time: 2025-05-19 04:38:25
+Time to Target: 97.5 minutes
+Heating Rate: 1.54°C/min
+Final Temperature: 198.16°C
+Data Points: 421
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-05-19 03:00:55
+Starting Temperature: 45.11°C
+Target Reached Time: 2025-05-19 05:23:55
+Time to Target: 143.0 minutes
+Heating Rate: 1.01°C/min
+Final Temperature: 193.24°C
+Data Points: 421
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-05-19 03:00:55
+Starting Temperature: 40.35°C
+Target Reached Time: 2025-05-19 04:01:23
+Time to Target: 60.5 minutes
+Heating Rate: 2.47°C/min
+Final Temperature: 195.30°C
+Data Points: 421
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-05-19 03:00:55
+Starting Temperature: 36.60°C
+Target Reached Time: 2025-05-19 04:32:25
+Time to Target: 91.5 minutes
+Heating Rate: 1.68°C/min
+Final Temperature: 192.31°C
+Data Points: 421
+
+
+Date: 21-Apr-2025 24 C , 41 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-04-21 02:50:28
+Starting Temperature: 37.92°C
+Target Reached Time: 2025-04-21 03:22:27
+Time to Target: 32.0 minutes
+Heating Rate: 3.82°C/min
+Final Temperature: 160.56°C
+Data Points: 322
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-04-21 02:50:28
+Starting Temperature: 41.88°C
+Target Reached Time: 2025-04-21 03:39:58
+Time to Target: 49.5 minutes
+Heating Rate: 2.99°C/min
+Final Temperature: 194.42°C
+Data Points: 322
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-04-21 02:50:28
+Starting Temperature: 54.28°C
+Target Reached Time: 2025-04-21 04:15:28
+Time to Target: 85.0 minutes
+Heating Rate: 1.60°C/min
+Final Temperature: 192.58°C
+Data Points: 322
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-04-21 02:50:28
+Starting Temperature: 64.29°C
+Target NOT reached during this session
+Final Temperature: 183.68°C
+Data Points: 322
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-04-21 02:50:28
+Starting Temperature: 55.18°C
+Target Reached Time: 2025-04-21 03:47:28
+Time to Target: 57.0 minutes
+Heating Rate: 2.37°C/min
+Final Temperature: 186.34°C
+Data Points: 322
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-04-21 02:50:28
+Starting Temperature: 45.82°C
+Target Reached Time: 2025-04-21 04:11:58
+Time to Target: 81.5 minutes
+Heating Rate: 1.77°C/min
+Final Temperature: 189.65°C
+Data Points: 322
+
+
+Date: 26-May-2025 22 C , 95 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-05-26 03:41:24
+Starting Temperature: 27.43°C
+Target Reached Time: 2025-05-26 04:15:56
+Time to Target: 34.5 minutes
+Heating Rate: 3.84°C/min
+Final Temperature: 151.44°C
+Data Points: 398
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-05-26 03:41:24
+Starting Temperature: 30.40°C
+Target Reached Time: 2025-05-26 04:33:25
+Time to Target: 52.0 minutes
+Heating Rate: 3.07°C/min
+Final Temperature: 180.32°C
+Data Points: 398
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-05-26 03:41:24
+Starting Temperature: 31.69°C
+Target Reached Time: 2025-05-26 05:07:24
+Time to Target: 86.0 minutes
+Heating Rate: 1.84°C/min
+Final Temperature: 197.82°C
+Data Points: 398
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-05-26 03:41:24
+Starting Temperature: 32.54°C
+Target Reached Time: 2025-05-26 06:15:25
+Time to Target: 154.0 minutes
+Heating Rate: 1.02°C/min
+Final Temperature: 195.50°C
+Data Points: 398
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-05-26 03:41:24
+Starting Temperature: 33.53°C
+Target Reached Time: 2025-05-26 04:45:25
+Time to Target: 64.0 minutes
+Heating Rate: 2.44°C/min
+Final Temperature: 194.97°C
+Data Points: 398
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-05-26 03:41:24
+Starting Temperature: 30.80°C
+Target Reached Time: 2025-05-26 05:16:55
+Time to Target: 95.5 minutes
+Heating Rate: 1.67°C/min
+Final Temperature: 193.05°C
+Data Points: 398
+
+
+Date: 28-Apr-2025 25 C , 39 %
+--------------------------------------------------
+Sensor: WU311
+Target Temperature: 160°C
+Start Time: 2025-04-28 04:20:58
+Starting Temperature: 34.32°C
+Target Reached Time: 2025-04-28 04:58:28
+Time to Target: 37.5 minutes
+Heating Rate: 3.35°C/min
+Final Temperature: 151.71°C
+Data Points: 361
+
+Sensor: WU312
+Target Temperature: 190°C
+Start Time: 2025-04-28 04:20:58
+Starting Temperature: 36.02°C
+Target Reached Time: 2025-04-28 05:13:27
+Time to Target: 52.5 minutes
+Heating Rate: 2.93°C/min
+Final Temperature: 182.62°C
+Data Points: 361
+
+Sensor: WU314
+Target Temperature: 190°C
+Start Time: 2025-04-28 04:20:58
+Starting Temperature: 42.17°C
+Target Reached Time: 2025-04-28 05:59:29
+Time to Target: 98.5 minutes
+Heating Rate: 1.50°C/min
+Final Temperature: 187.56°C
+Data Points: 361
+
+Sensor: WU321
+Target Temperature: 190°C
+Start Time: 2025-04-28 04:20:58
+Starting Temperature: 48.16°C
+Target Reached Time: 2025-04-28 06:55:58
+Time to Target: 155.0 minutes
+Heating Rate: 0.92°C/min
+Final Temperature: 188.31°C
+Data Points: 361
+
+Sensor: WU322
+Target Temperature: 190°C
+Start Time: 2025-04-28 04:20:58
+Starting Temperature: 43.13°C
+Target Reached Time: 2025-04-28 05:25:59
+Time to Target: 65.0 minutes
+Heating Rate: 2.26°C/min
+Final Temperature: 194.95°C
+Data Points: 361
+
+Sensor: WU323
+Target Temperature: 190°C
+Start Time: 2025-04-28 04:20:58
+Starting Temperature: 39.14°C
+Target Reached Time: 2025-04-28 05:54:27
+Time to Target: 93.5 minutes
+Heating Rate: 1.61°C/min
+Final Temperature: 196.39°C
+Data Points: 361
+
+

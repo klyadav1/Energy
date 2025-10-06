@@ -1,0 +1,63 @@
+Summary Statistics Across All Dates
+==================================================
+
+Sensor: WU311
+Target Temperature: 160°C
+Average Time to Target: 33.4 ± 4.3 mins
+Range: 27.5 - 44.0 mins
+Average Heating Rate: 3.85 ± 0.45°C/min
+Earliest Start Time: 2025-04-07 03:02:58
+Latest Start Time: 2025-06-16 03:31:24
+Fastest Target Achievement: 2025-04-07 03:35:28
+Slowest Target Achievement: 2025-06-16 03:58:54
+
+Sensor: WU312
+Target Temperature: 190°C
+Average Time to Target: 48.6 ± 3.0 mins
+Range: 42.0 - 52.5 mins
+Average Heating Rate: 3.20 ± 0.22°C/min
+Earliest Start Time: 2025-04-07 03:02:58
+Latest Start Time: 2025-06-16 03:31:24
+Fastest Target Achievement: 2025-04-07 03:50:27
+Slowest Target Achievement: 2025-06-16 04:13:25
+
+Sensor: WU314
+Target Temperature: 190°C
+Average Time to Target: 94.7 ± 19.5 mins
+Range: 78.5 - 149.0 mins
+Average Heating Rate: 1.64 ± 0.27°C/min
+Earliest Start Time: 2025-04-07 03:02:58
+Latest Start Time: 2025-06-16 03:31:24
+Fastest Target Achievement: 2025-04-07 04:54:58
+Slowest Target Achievement: 2025-06-16 04:53:25
+
+Sensor: WU321
+Target Temperature: 190°C
+Average Time to Target: 155.0 ± 14.7 mins
+Range: 131.0 - 180.5 mins
+Average Heating Rate: 0.98 ± 0.10°C/min
+Earliest Start Time: 2025-04-07 03:02:58
+Latest Start Time: 2025-06-16 03:31:24
+Fastest Target Achievement: 2025-04-07 05:42:28
+Slowest Target Achievement: 2025-06-16 06:25:55
+
+Sensor: WU322
+Target Temperature: 190°C
+Average Time to Target: 71.3 ± 29.3 mins
+Range: 56.0 - 163.5 mins
+Average Heating Rate: 2.28 ± 0.43°C/min
+Earliest Start Time: 2025-04-07 03:02:58
+Latest Start Time: 2025-06-16 03:31:24
+Fastest Target Achievement: 2025-04-07 03:58:58
+Slowest Target Achievement: 2025-06-16 06:14:55
+
+Sensor: WU323
+Target Temperature: 190°C
+Average Time to Target: 90.2 ± 4.4 mins
+Range: 81.5 - 96.0 mins
+Average Heating Rate: 1.70 ± 0.07°C/min
+Earliest Start Time: 2025-04-07 03:02:58
+Latest Start Time: 2025-06-16 03:31:24
+Fastest Target Achievement: 2025-04-07 04:29:58
+Slowest Target Achievement: 2025-06-16 04:57:55
+
